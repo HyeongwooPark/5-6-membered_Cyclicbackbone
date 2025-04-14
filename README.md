@@ -12,7 +12,7 @@ MALDI Data:
 Figures 3, 4, 5, 7, and 8, along with Supplementary Figures 7, 9, 10, 11, 14, 15, 16, and 17, contain MALDI data. These have been grouped into Maldi.zip.
 
 NMR Data:
-Supplementary Figures 21 through 72 consist of NMR data. These are all contained in NMR.
+Supplementary Figures 21 through 72 consist of NMR data. These are all contained in NMR.zip.
 
 Mass Spectroscopy Data:
 Supplementary Figures 73 through 98 include mass spectroscopy data. These are consolidated within Mass.zip.
