@@ -1,6 +1,5 @@
-# 5-6-membered_Cyclicbackbone
-# Supplementary Raw Data for " Expanded ribosomal synthesis
-of non-standard cyclic backbones in vitro "  Study
+# Expanded ribosomal synthesis of non-standard cyclic backbones in vitro 
+Supplementary Raw Data for "Expanded ribosomal synthesis of non-standard cyclic backbones in vitro"
 
 Due to large file sizes, raw data are hosted externally.
 
